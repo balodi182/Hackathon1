@@ -1,0 +1,4 @@
+SetTemp=-1
+SetHum=-1
+Step=10
+Direction=-1
