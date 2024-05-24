@@ -7,4 +7,4 @@ File Purposes with starting order
 
 TXT file purposes
 
-Set.txt             --  used by tkinterRead to store user input and read by 
+Set.txt             --  used by tkinterRead to store user input and read by dimmersend and output
